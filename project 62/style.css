@@ -1,0 +1,21 @@
+body{
+    color: chartreuse;
+}
+.menu1{
+position: fixed;
+    background: aqua;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    
+}
+.menu1 {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+img1{
+ width: 200px;
+    height: 250px;
+}
